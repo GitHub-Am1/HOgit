@@ -1,4 +1,6 @@
-﻿EDICIÓN Nro1 -> Estando en branch master 
+﻿EDICION Nro4 -> ESCRIBO ESTO YA QUE NO ENTIENDO A QUÉ COMANDOS SE REFIEREN CUANDO NOS PIDEN QUE LOS AGREGUEMOS.
+
+EDICIÓN Nro1 -> Estando en branch master 
 EDICIÓN Nro2 -> Estando en la recién estrenada branch Charlas
 
 
