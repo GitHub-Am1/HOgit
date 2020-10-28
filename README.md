@@ -1,3 +1,6 @@
+﻿EDICIÓN Nro1 -> Estando en branch master 
+
+
 # HOgit
 Repositorio con ejercicios para practicar comandos básicos de git
 
@@ -27,6 +30,7 @@ cd HOgit
 ```
 
 Editamos el archivo de README y hacemos un nuevo commit
+
 
 ```
 vi README.md
