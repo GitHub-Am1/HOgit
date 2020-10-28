@@ -1,4 +1,5 @@
 ﻿EDICIÓN Nro1 -> Estando en branch master 
+EDICIÓN Nro2 -> Estando en la recién estrenada branch Charlas
 
 
 # HOgit
